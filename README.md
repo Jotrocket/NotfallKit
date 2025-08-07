@@ -8,8 +8,6 @@ Freelancers and solo-entrepreneurs often manage all their digital infrastructure
 
 **NotfallKit** aims to close this gap with a simple, local-first tool that helps users prepare a digital emergency plan. It allows trusted individuals to take over if needed — securely, transparently, and without relying on third-party platforms or cloud services.
 
----
-
 ## Key Features
 
 - 100% local storage – no cloud or external APIs
@@ -21,8 +19,6 @@ Freelancers and solo-entrepreneurs often manage all their digital infrastructure
 - Support for German and English
 - Open-source and extensible
 
----
-
 ## Planned Stack
 
 - **Frontend:** Vue.js or Svelte (to be decided based on performance)
@@ -30,8 +26,6 @@ Freelancers and solo-entrepreneurs often manage all their digital infrastructure
 - **Local Storage:** IndexedDB (PWA) or SQLite (Electron)
 - **Export:** pdf-lib or HTML-to-PDF for printable output
 - **Container:** Electron for desktop / PWA for browser
-
----
 
 ## Milestones (Provisional)
 
@@ -54,8 +48,6 @@ Freelancers and solo-entrepreneurs often manage all their digital infrastructure
    - Testing (Win/macOS/Linux)  
    - Documentation (EN/DE)  
    - Public release via GitHub
-
----
 
 ## Contact
 
