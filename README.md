@@ -54,7 +54,7 @@ Freelancers and solo-entrepreneurs often manage all their digital infrastructure
 ## Contact
 
 - Author: Andreas Weiss  
-- Email: andreas.weiss@ajotrocket.com  
+- Email: NotfallKit@jotrocket.com  
 - NLnet Submission Code: 2025-08-147
 
 ## License
