@@ -2,6 +2,8 @@
 
 **NotfallKit** is an open-source, local-first application that helps freelancers and solo-entrepreneurs document critical digital information in case of illness, incapacity, or death.
 
+**Status:** Under development – not yet usable. First release expected Q4 2025.
+
 ## Purpose
 
 Freelancers and solo-entrepreneurs often manage all their digital infrastructure alone. In the event of illness, incapacity, or death, critical logins, instructions, and digital assets may become inaccessible — causing legal, financial, or operational issues.
